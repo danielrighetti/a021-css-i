@@ -1,0 +1,34 @@
+article#bloco-1.bloco{
+    background-color: orange;
+    color: white;
+    padding: 5px;
+}
+
+article#bloco-2.bloco{
+    background-color: rgb(64, 172, 64);
+    color: white;
+}
+
+article#bloco-3.bloco{
+    background-color: rgb(17, 47, 17);
+    color: white;
+}
+
+article#bloco-4.bloco{
+    background-color: rgb(207, 44, 44);
+    color: white;
+}
+
+
+
+
+
+/* parte 3 */
+
+article#bloco-1.bloco{
+    border-top: 5px rgb(149, 198, 100);
+}
+
+main{
+    font-family: 'Helvetica';
+}
